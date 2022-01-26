@@ -1,0 +1,80 @@
+* {
+
+  font-family: 'Acre', 'Helvetica', sans-serif;
+  background-color: #E8FCC2;
+}
+
+.artitle,
+.title {
+
+  background-color: #58653B;
+  color: #ffffff;
+
+}
+
+.title {
+
+  font-size: 70px;
+  padding-top: 10px;
+  text-align: center;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+.artitle.principal {
+
+  font-size: 45px;
+
+}
+
+.artitle {
+
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+}
+
+.image {
+
+  height: 300px;
+  width: auto;
+
+}
+
+
+#index-list {
+
+  margin-left: 41%;
+
+}
+
+.fas.fa-heart {
+
+  color: #ff4d4d;
+
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+li,
+p {
+
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+
+.tail-text {
+
+  text-align: center;
+
+}

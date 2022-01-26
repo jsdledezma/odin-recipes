@@ -40,7 +40,9 @@
 
 #index-list {
 
-  margin-left: 45%;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
 
 }
 
